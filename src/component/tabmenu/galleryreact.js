@@ -1,4 +1,5 @@
 import React from 'react'
+import '../tab.css' 
 
 const galleryreact = () => {
   return (
@@ -9,5 +10,4 @@ const galleryreact = () => {
     
   )
 }
-
 export default galleryreact
